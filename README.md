@@ -1,2 +1,2 @@
 # One Piece - Quiz
-AP2 - trabalho de faculdade
+Quiz - Trabalho da faculdade.
