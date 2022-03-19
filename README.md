@@ -1,2 +1,2 @@
 # One Piece - Quiz
-Quiz - Trabalho da faculdade.
+Quiz do Anime One Piece.
